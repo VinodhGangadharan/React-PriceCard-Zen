@@ -1,0 +1,41 @@
+body
+{
+  background-color: black;
+}
+
+span
+{
+  padding-right: 10px;
+}
+
+.hcolor
+{
+  color:grey;
+  text-align: center;
+}
+
+.card-title
+{
+  text-align: center;
+}
+
+h5
+{
+font-size: 40px;
+}
+
+h4
+{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 30px;
+  background-color: blue;
+  color:white;
+  width:100%;
+  text-align: center;
+}
+
+ul li {
+  margin-bottom: 15px;
+}
+
